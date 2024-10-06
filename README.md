@@ -1,4 +1,4 @@
-<h1 align="left">Olá 👋, Eu sou o Victor.</h1>
+<h1 align="center">Olá 👋, Eu sou o Victor.</h1>
 <h3 align="center">Desenvolvedor BackEnd - Python, IA e Automação | Estudante de Análise e Desenvolvimento de Sistemas (FIAP) | Especialização em Data Science e Machine Learning</h3>
 
 - 🔭 Atualmente estou trabalhando em **projetos de automação e aprendizado de máquina com Python, enquanto me especializo em Data Science e Inteligência Artificial.**
