@@ -1,7 +1,13 @@
-
-
 <h1 align="center">Olá 👋, Eu sou o Victor.</h1>
 <h3 align="center">Desenvolvedor BackEnd - Python, IA e Automação | Estudante de Análise e Desenvolvimento de Sistemas (FIAP) | Especialização em Data Science e Machine Learning</h3>
+
+###
+
+<p>Sou um desenvolvedor brasileiro apaixonado por resolver problemas através da programação. Atualmente, estou trabalhando em vários projetos pessoais, incluindo o desenvolvimento de soluções inovadoras com Python e Lua.</p>
+
+<p>Também estou focado em aprimorar constantemente minhas habilidades em programação, especialmente em Data Science e desenvolvimento de software. Fique à vontade para conferir minhas atividades no <a href="https://github.com/seu-usuario">GitHub</a> e ver no que estou trabalhando.</p>
+
+<p style="padding-bottom: 100px;">Você também pode me encontrar no <a href="https://www.linkedin.com/in/seu-usuario">LinkedIn</a> para acompanhar minha jornada na área de tecnologia!</p>
 
 ###
 
