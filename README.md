@@ -5,9 +5,9 @@
 
 <p>Sou um desenvolvedor brasileiro apaixonado por resolver problemas através da programação. Atualmente, estou trabalhando em vários projetos pessoais, incluindo o desenvolvimento de soluções inovadoras com Python e Lua.</p>
 
-<p>Também estou focado em aprimorar constantemente minhas habilidades em programação, especialmente em Data Science e desenvolvimento de software. Fique à vontade para conferir minhas atividades no <a href="https://github.com/seu-usuario">GitHub</a> e ver no que estou trabalhando.</p>
+<p>Também estou focado em aprimorar constantemente minhas habilidades em programação, especialmente em Data Science e desenvolvimento de software. Fique à vontade para conferir minhas atividades no <a href="https://github.com/euvhmac">GitHub</a> e ver no que estou trabalhando.</p>
 
-<p style="padding-bottom: 100px;">Você também pode me encontrar no <a href="https://www.linkedin.com/in/seu-usuario">LinkedIn</a> para acompanhar minha jornada na área de tecnologia!</p>
+<p style="padding-bottom: 100px;">Você também pode me encontrar no <a href="https://www.linkedin.com/in/vhmac">LinkedIn</a> para acompanhar minha jornada na área de tecnologia!</p>
 
 ###
 
