@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, Eu sou o Victor.</h1>
-<h3 align="center">Desenvolvedor BackEnd - Python, IA e Automação | Estudante de Análise e Desenvolvimento de Sistemas (FIAP) | Especialização em Data Science e Machine Learning</h3>
+<h1 align="center">Olá 👋, Eu sou o Victor Mendes.</h1>
+<h3 align="center">Desenvolvedor Full Stack - Python, IA e Automação | Estudante de Análise e Desenvolvimento de Sistemas (FIAP) | Especialização em Data Science e Machine Learning</h3>
 
 ###
 
@@ -30,5 +30,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" height="30" alt="pytorch logo" />        
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="30" alt="keras logo" />        
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" height="30" alt="-plotly logo"  />
 </div>
