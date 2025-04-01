@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou o Victor Mendes.</h1>
+<h1 align="center">Olá, Eu sou o Victor Mendes.</h1>
 <h3 align="center">Desenvolvedor Full Stack - Python, IA e Automação | Estudante de Análise e Desenvolvimento de Sistemas (FIAP) | Especialização em Data Science e Machine Learning</h3>
 
 ###
