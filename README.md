@@ -7,7 +7,7 @@
 
 <p>Também estou focado em aprimorar constantemente minhas habilidades em programação, especialmente em Data Science e desenvolvimento de software. Fique à vontade para conferir minhas atividades no <a href="https://github.com/euvhmac">GitHub</a> e ver no que estou trabalhando.</p>
 
-<p style="padding-bottom: 100px;">Você também pode me encontrar no <a href="https://www.linkedin.com/in/vhmac">LinkedIn</a> para acompanhar minha jornada na área de tecnologia!</p>
+<p style="padding-bottom: 100px;">Você também pode me encontrar no <a href="https://www.linkedin.com/in/vhmac">LinkedIn</a> para acompanhar minha jornada na área de tecnologia.</p>
 
 ###
 
