@@ -26,29 +26,11 @@ Atuo na criação de pipelines de dados, modelagem preditiva e construção de d
 <table width="100%">
   <tr>
     <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
-      <img width="12" />
-      <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo" />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" height="30" alt="pytorch logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="30" alt="keras logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" height="30" alt="plotly logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+      <p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql,pandas,numpy,matplotlib,scikitlearn,tensorflow,spark,docker,aws,jupyter,vscode,git,github&theme=dark&perline=9&titles=true" />
+  </a>
+</p>
     </td>
 
   <td align="right" valign="middle">
