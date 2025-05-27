@@ -1,15 +1,27 @@
-<h1 align="center">Olá, Eu sou o Victor Mendes.</h1>
-<h3 align="center">Desenvolvedor Full Stack - Python, IA e Automação | Estudante de Análise e Desenvolvimento de Sistemas (FIAP) | Especialização em Data Science e Machine Learning</h3>
+<h1 align="center">Victor Mendes 👨‍💻</h1>
+<p align="center">Cientista de Dados • Python • Machine Learning • Automação de Processos • Visualização de Dados</p>
 
-###
+---
 
-<p>Sou um desenvolvedor brasileiro apaixonado por resolver problemas através da programação. Atualmente, estou trabalhando em vários projetos pessoais, incluindo o desenvolvimento de soluções inovadoras com Python.</p>
+### 👋 Sobre mim
 
-<p>Também estou focado em aprimorar constantemente minhas habilidades em programação, especialmente em Data Science e desenvolvimento de software. Fique à vontade para conferir minhas atividades no <a href="https://github.com/euvhmac">GitHub</a> e ver no que estou trabalhando.</p>
+Sou Cientista de Dados com background técnico em Python, Engenharia de Dados e Automação. Estou atualmente cursando **Data Science na FIAP** e a **Formação Cientista de Dados 4.0 pela DSA**, com foco em projetos práticos que envolvem estatística aplicada, machine learning, NLP e visualização de dados.
 
-<p style="padding-bottom: 100px;">Você também pode me encontrar no <a href="https://www.linkedin.com/in/vhmac">LinkedIn</a> para acompanhar minha jornada na área de tecnologia.</p>
+Atuo na criação de pipelines de dados, modelagem preditiva e construção de dashboards estratégicos. Meu foco é entregar insights reais e aplicáveis ao negócio, traduzindo dados complexos em decisões acionáveis.
 
-###
+---
+
+### 🚀 Principais Projetos
+
+| Projeto | Descrição | Tecnologias |
+|--------|------------|-------------|
+| [CSV Cleaner – Flush](https://github.com/euvhmac/csv-cleaner-flush) | App interativo para limpeza e validação de arquivos CSV com dashboard integrado. | Python, Pandas, Streamlit, Plotly |
+| `em desenvolvimento` **Churn Prediction** | Modelo preditivo para evasão de clientes com explicabilidade via SHAP. | Python, Scikit-Learn, SHAP |
+| `em desenvolvimento` **NLP - Sentimentos em Avaliações** | Análise de sentimentos em português com BERTimbau e TF-IDF. | Python, NLP, Transformers |
+| `em desenvolvimento` **Dashboard de Vendas + Forecast** | Visualização e previsão de vendas com Power BI e Prophet. | Power BI, Python, Pandas |
+| `em desenvolvimento` **Segmentação de Clientes** | Clusterização de perfis com K-Means e análise de personas. | Python, Scikit-Learn, Seaborn |
+| `em desenvolvimento` **Deploy de Modelo com API** | API com Flask e Docker para servir modelos em produção. | Flask, Docker, Python |
+| `em desenvolvimento` **Pipeline Big Data com Spark** | Processamento distribuído com PySpark e dados em S3. | PySpark, AWS S3, SQL |
 
 <table width="100%">
   <tr>
@@ -44,3 +56,11 @@
   </td>
   </tr>
 </table>
+
+---
+
+### 🌐 Contato
+
+- 📫 E-mail: [contato@vhmac.com](mailto:contato@vhmac.com)  
+- 💼 LinkedIn: [linkedin.com/in/vhmac](https://linkedin.com/in/vhmac)  
+- 🧠 Portfólio em construção via GitHub
