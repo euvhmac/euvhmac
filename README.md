@@ -28,7 +28,12 @@ Atuo na criação de pipelines de dados, modelagem preditiva e construção de d
     <td align="left" valign="middle">
       <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql,pandas,numpy,matplotlib,scikitlearn,tensorflow,spark,docker,aws,jupyter,vscode,git,github&theme=dark&perline=9&titles=true" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,seaborn,pandas,numpy,matplotlib,scikitlearn,pytorch&theme=dark&perline=9&titles=true" />
+  </a>
+</td>
+<td align="left" valign="middle">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,vscode,git,github,aws,azure&theme=dark&perline=9&titles=true" />
   </a>
 </p>
     </td>
