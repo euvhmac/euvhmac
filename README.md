@@ -1,11 +1,11 @@
 <h1 align="center">Victor Mendes 👨‍💻</h1>
-<p align="center">Cientista de Dados • Python • Machine Learning • Automação de Processos • Visualização de Dados</p>
+<p align="center">Analista de Dados • Python • Machine Learning • Automação de Processos • Visualização de Dados</p>
 
 ---
 
 ### 👋 Sobre mim
 
-Sou Cientista de Dados com background técnico em Python, Engenharia de Dados e Automação. Estou atualmente cursando **Data Science na FIAP** e a **Formação Cientista de Dados 4.0 pela DSA**, com foco em projetos práticos que envolvem estatística aplicada, machine learning, NLP e visualização de dados.
+Sou Analista de Dados Pleno com background técnico em Python, Engenharia de Dados e Automação. Estou atualmente cursando **Data Science na FIAP** e a **Formação Cientista de Dados 4.0 pela DSA**, com foco em projetos práticos que envolvem estatística aplicada, machine learning, NLP e visualização de dados.
 
 Atuo na criação de pipelines de dados, modelagem preditiva e construção de dashboards estratégicos. Meu foco é entregar insights reais e aplicáveis ao negócio, traduzindo dados complexos em decisões acionáveis.
 
