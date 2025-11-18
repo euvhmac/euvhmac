@@ -50,4 +50,4 @@ Atuo na criação de pipelines de dados, modelagem preditiva e construção de d
 
 - 📫 E-mail: [contato@vhmac.com](mailto:contato@vhmac.com)  
 - 💼 LinkedIn: [linkedin.com/in/vhmac](https://linkedin.com/in/vhmac)  
-- 🧠 Portfólio em construção via GitHub
+- 🧠 Portfólio: vhmac.com
