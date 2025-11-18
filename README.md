@@ -1,5 +1,5 @@
 <h1 align="center">Victor Mendes</h1>
-<p align="center">AI Engineer • Machine Learning • Full Stack Development • Python • Automation</p>
+<p align="center">Software Engineer • Machine Learning & Deep Learning • Full Stack Development • Python • Automation</p>
 
 ---
 
