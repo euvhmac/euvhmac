@@ -7,7 +7,8 @@
 
 Software Engineer focado em AI/ML e automação. Construo sistemas que resolvem problemas reais: automação de processos críticos, pipelines de dados, modelos preditivos em produção.
 Trabalho com Python, SQL, machine learning e desenvolvimento full stack.
-Atualmente na @FictorAlimentos desenvolvendo soluções de IA aplicadas ao negócio.
+
+**Atualmente na @FictorAlimentos desenvolvendo soluções de IA aplicadas ao negócio.**
 
 
 ---
