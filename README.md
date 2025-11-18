@@ -1,13 +1,14 @@
-<h1 align="center">Victor Mendes 👨‍💻</h1>
-<p align="center">Analista de Dados • Python • Machine Learning • Automação de Processos • Visualização de Dados</p>
+<h1 align="center">Victor Mendes</h1>
+<p align="center">AI Engineer • Machine Learning • Full Stack Development • Python • Automation</p>
 
 ---
 
 ### 👋 Sobre mim
 
-Sou Analista de Dados Pleno com background técnico em Python, Engenharia de Dados e Automação. Estou atualmente cursando **Data Science na FIAP** e a **Formação Cientista de Dados 4.0 pela DSA**, com foco em projetos práticos que envolvem estatística aplicada, machine learning, NLP e visualização de dados.
+Software Engineer focado em AI/ML e automação. Construo sistemas que resolvem problemas reais: automação de processos críticos, pipelines de dados, modelos preditivos em produção.
+Trabalho com Python, SQL, machine learning e desenvolvimento full stack.
+Atualmente na Fictor Alimentos desenvolvendo soluções de IA aplicadas ao negócio.
 
-Atuo na criação de pipelines de dados, modelagem preditiva e construção de dashboards estratégicos. Meu foco é entregar insights reais e aplicáveis ao negócio, traduzindo dados complexos em decisões acionáveis.
 
 ---
 
