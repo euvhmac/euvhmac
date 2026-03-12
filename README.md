@@ -60,5 +60,5 @@ Desenvolvendo sistemas inteligentes que vão do código ao deploy. Especializaç
 ---
 
 <p align="center">
-  <i>Aberto a oportunidades remotas em AI Engineering, ML Engineering e Senior Software Development</i>
+  <i>Aberto a oportunidades remotas em AI Engineering, ML Engineering & Software Development</i>
 </p>
