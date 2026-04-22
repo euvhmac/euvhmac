@@ -49,7 +49,7 @@ Desenvolvendo sistemas inteligentes que vão do código ao deploy. Especializaç
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -67,22 +67,18 @@ Desenvolvendo sistemas inteligentes que vão do código ao deploy. Especializaç
 <img src="https://streak-stats.demolab.com?user=euvhmac&theme=github-dark&hide_border=true&ring=FACC15&fire=FACC15&currStreakLabel=FACC15" width="60%" />
 
 </div>
----
 
+
+<div align=center>
+  
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vhmac)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:euvhmac@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/euvhmac)
 
----
-
-<p align="center">
+<p>
   <i>Aberto a oportunidades remotas em AI Engineering, ML Engineering & Software Development</i>
 </p>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,8,8&height=120&section=footer&animation=twinkling"/>
 
 </div>
