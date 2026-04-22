@@ -8,6 +8,8 @@ Desenvolvendo sistemas inteligentes que vão do código ao deploy. Especializaç
 
 </div>
 
+---
+
 ## 🛠️ Tech Stack
 
 ### Backend & APIs
@@ -49,9 +51,9 @@ Desenvolvendo sistemas inteligentes que vão do código ao deploy. Especializaç
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
-
-## 📊 GitHub Stats
+## 📊 Stats
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=euvhmac&theme=github_dark" width="75%" />
@@ -68,10 +70,8 @@ Desenvolvendo sistemas inteligentes que vão do código ao deploy. Especializaç
 
 </div>
 
-
+## 📬Contato
 <div align=center>
-  
-## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vhmac)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:euvhmac@gmail.com)
