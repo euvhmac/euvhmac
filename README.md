@@ -50,7 +50,21 @@ Desenvolvendo sistemas inteligentes que vão do código ao deploy. Especializaç
 ---
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euvhmac&layout=compact&theme=dark&hide_border=true)
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=euvhmac&theme=github_dark" width="75%" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=euvhmac&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=euvhmac&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=euvhmac&theme=github_dark&utcOffset=-3" width="32%" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=euvhmac&theme=github-dark-blue&hide_border=true&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6" width="55%" />
+
+</div>
 
 ---
 
